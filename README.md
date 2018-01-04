@@ -1,3 +1,3 @@
 # Tech-Academy-Projects
 This is my Tech Academy projects for learning purposes.
-![a link][./Academy-Project/C#]
+[I am an absolute reference within the repository](/Academy Projects/C#/README.md)

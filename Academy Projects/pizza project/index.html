@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Mary's Pizza Delivery</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="./css/pizza.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  
+  </head>
+  
+<body>
+
+  
+  <div class="jumbotron bg-success">
+  <center>
+ <p style="text-align:center;font-family: serif;font-size: 2em; color: darkgreen; font-weight:900"><strong>Make your pizzas...you make, we cook!</strong></p>
+ 
+	<div class="row">
+		<div class="col-12">
+			    <img id="make" class="img-fluid" style="padding:10px;border-radius:20px;" src="img/make.jpg" alt=""> 
+		</div>
+	</div>
+	</center>
+    <!--div in the cards-->
+ <div class="card-deck">
+  <div class="card">
+    <div class="card-block">
+      <h4>Size</h4>
+	  <!-- choices for size -->
+            <input class="size" type="radio" name="Size"  value="Personal Size" checked>
+          Personal Size<br>
+            <input class="size" type="radio" name="Size"  value="Medium Size">
+          Medium Size<br>
+            <input class="size" type="radio" name="Size" value="Large Size">
+          Large Size<br>
+            <input class="size" type="radio" name="Size"  value="Extra Large Size">
+         Extra Large Size<br>
+      
+           <!-- /choices for size -->
+   </div>
+  </div>
+  <div class="card">
+    <div class="card-block">
+      <h4 id="meat">Meat</h4>
+	  <!--choices for meat-->
+     
+            <input class="meat" type="checkbox"  value="Pepperoni">
+           Pepperoni<br>
+            <input class="meat" type="checkbox" value="Sausage">
+           Sausage <br>
+            <input class="meat" type="checkbox" value="Canadian bacon">
+         Canadian Bacon<br>
+            <input class="meat" type="checkbox" value="Ground beef">
+           Ground Beef<br>
+            <input class="meat" type="checkbox" value="Chicken">
+          Chicken<br>
+            <input class="meat" type="checkbox" value="Anchovy">
+          Anchovy<br>
+      
+	<!--choices for meat-->
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-block">
+      <h4 id="veggie">Veggie</h4>
+      <!--choices for veggie-->
+   
+            <input class="veggie" type="checkbox" value="Tomato">
+          Tomatoes<br>
+            <input class="veggie" type="checkbox" value="Onions">
+           Onions <br>
+            <input class="veggie" type="checkbox" value="Olives">
+          Olives<br>
+            <input class="veggie" type="checkbox" value="Green Pepper">
+          Green Peppers<br>
+            <input class="veggie" type="checkbox" value="Mushrooms">
+         Mushrooms<br>
+            <input class="veggie" type="checkbox"  value="Pineapple">
+         Pineapple<br>
+            <input class="veggie" type="checkbox"  value="Spinach">
+        Spinach<br>
+            <input class="veggie" type="checkbox"  value="Jalapeno">
+        Jalapeno<br>
+	<!--choices for veggie-->
+	  </div>
+  </div>
+  <div class="card">
+    <div class="card-block">
+      <h4 id="cheese">Cheese</h4>
+	  <!--choices for cheese-->
+            <input class="cheese" type="radio" name="Cheese" value="Regular cheese">
+          Regular Cheese<br>
+            <input class="cheese" type="radio" name="Cheese" value="No Cheese">
+          No Cheese<br>
+            <input class="cheese" type="radio" name="Cheese" value="Extra Cheese">
+         Extra cheese<br>
+  
+	<!--/choices for cheese-->
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-block">
+      <h4 id="source">Sauce</h4>
+    <!--choices for sources-->
+            <input class="sauce" type="radio" name="Sourse" value="Marinara sauce">
+            Marinara sauce<br>
+           <input class="sauce" type="radio" name="Sourse" value="White sauce">
+            White sauce<br>
+           <input class="sauce" type="radio" name="Sourse" value="Barbeque sauce">
+        Barbeque sauce<br>
+           <input class="sauce" type="radio" name="Sourse" value="No sauce">
+           No sauce<br>
+	<!--/choices for sources-->
+
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-block">
+      <h4 id="crust">Crust</h4>
+     	  <!--choices for crust-->
+            <input class="crust" type="radio" name="Crust" value="plain crust">
+          Plain Crust<br>
+           <input class="crust" type="radio" name="Crust" value="garlic butter crust">
+            Garlic Butter Crust <br> 
+            <input class="crust" type="radio" name="Crust" value="cheese stuffed crust">
+         Cheese Stuffed Crust<br>
+    <input class="crust" type="radio" name="Crust" value="spicy crust">
+           Spicy Crust<br>
+           <input class="crust" type="radio" name="Crust" value="house special crust">
+          House Special Crust</br>
+	<!--choices for crust-->
+
+    </div>
+  </div>
+</div>
+   <!--div in the cards-->
+   <br>
+ 
+   
+   <!--buttons--> 
+   <div class="button" style="float:right">
+
+ <button type="button" class="button1 btn btn-white" data-toggle="modal" data-target="#myModal" onclick="getReceipt()"><strong>
+  Place Order
+</strong></button>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">You Ordered</h5>
+		 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+     <div id="showText" style="width: 200px; height: 300px;margin-buttom:20px; float: left"></div>
+		<div id="subTotal"style="width: 200px; height: 300px; float:right"></div>
+		<div id="totalPrice"style="margin-top: 200px; float:right"></div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal"style= "position:abusolute;margin-top:500px;">Close</button>
+        <button type="button" class="btn btn-primary"style= "position:abusolute;margin-top:500px;margin-left:10px;">Save changes</button>
+      </div>
+    </div>
+   </div>
+  </div>
+</div>
+
+</div>
+  <script src="./js/pizza.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script> 
+
+
+
+		
+	
+  </body>
+  </html>
+  

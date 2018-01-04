@@ -1,0 +1,10 @@
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #fff;
+}
+p {
+	font-family: Comic Sans MS;
+	font-weight: 500;
+}

@@ -1,0 +1,44 @@
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\MyComicsBook.dll.config
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\MyComicsBook.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\MyComicsBook.pdb
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Helpers.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Mvc.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Razor.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Razor.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Helpers.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\bin\System.Web.Mvc.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\obj\Debug\MyComicsBook.csprojResolveAssemblyReference.cache
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\obj\Debug\MyComicsBook.csproj.CoreCompileInputs.cache
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\obj\Debug\MyComicsBook.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\repos\MyComicsBook\MyComicsBook\obj\Debug\MyComicsBook.pdb
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\MyComicsBook.dll.config
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\MyComicsBook.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\MyComicsBook.pdb
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Helpers.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Mvc.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Razor.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Razor.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Helpers.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\bin\System.Web.Mvc.xml
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\obj\Debug\MyComicsBook.csprojResolveAssemblyReference.cache
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\obj\Debug\MyComicsBook.csproj.CoreCompileInputs.cache
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\obj\Debug\MyComicsBook.dll
+C:\Users\maryd\OneDrive\Documents\Visual Studio 2017\visual studio-C#\ASP MVC\MyComicsBook\MyComicsBook\obj\Debug\MyComicsBook.pdb

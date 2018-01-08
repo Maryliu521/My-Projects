@@ -1,0 +1,15 @@
+﻿@model MyComicsBook.Models.ComicBook
+@{
+    var title = String.Format("Detail About {0} #{1}", Model.ComicTitle, Model.EpisodeNumber);
+    ViewBag.Title = title;
+}
+<h1>@title</h1>
+<h3>Episode Title: @Model.EpisodeTitle</h3>
+@{var characters = Model.Characters.Select(p => p.Name).ToArray();
+    var characterString = String.Join(" , ",characters);
+<p><strong>Starring:</Strong>@characterString</p>
+}
+
+<hr />
+@Html.ActionLink("Back to all the comics", "Index");
+

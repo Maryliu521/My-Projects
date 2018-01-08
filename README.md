@@ -1,7 +1,7 @@
 # Tech-Academy-Projects
 This is my Tech Academy projects for learning purposes.
 * [C# project]
-- ACME(/Academy-Projects/C#/ACME)
+- [ACME](/Academy-Projects/C#/ACME)
 
 - EContact (Uncompleted Project--C# link to SQL through Visual Studio)
 + HTML&CSS PROJECTS

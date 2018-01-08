@@ -15,9 +15,11 @@ This is my Tech Academy projects for learning purposes.
 
  HTML&CSS PROJECTS
 * [Cinema](/Academy-Projects/HTML%26CSS/cinema)
-* [The Space Station](/Academy-Projects/HTML%26CSS/The Space Station)
+* [The Space Station](/Academy-Projects/HTML%26CSS/The-Space-Station)
 
 * My Comic Book-MVC Project
+
 - Pizza Project
+
 + Python Fizz Buzz
 

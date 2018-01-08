@@ -17,9 +17,9 @@ This is my Tech Academy projects for learning purposes.
 * [Cinema](/Academy-Projects/HTML%26CSS/cinema)
 * [The Space Station](/Academy-Projects/HTML%26CSS/The-Space-Station)
 
-* My Comic Book-MVC Project
+* [ My Comic Book-MVC Project](/Academy-Projects/MyComicBook-MVC)
 
-- Pizza Project
+- [Pizza Project](/Academy-Projects/PizzaProject)
 
-+ Python Fizz Buzz
++ [Python Fizz Buzz](/Academy-Projects/Python)
 

@@ -1,6 +1,6 @@
 # Tech-Academy-Projects
 This is my Tech Academy projects for learning purposes.
- [C# project]
+ C# project
  - [ACME](/Academy-Projects/C%23/ACME)
  - [CasinoGame](/Academy-Projects/C%23/MegaChallengeCasino-34)
  - [HeroMosterGame](/Academy-Projects/C%23/ChallengeHeroMonsterPart2)
@@ -11,14 +11,15 @@ This is my Tech Academy projects for learning purposes.
  - [PapaBobPizza Website](/Academy-Projects/C%23/PapaBobPizza-3LAYERS)
  - [PostageCalculator](/Academy-Projects/C%23/postage-calculator-challenge)
 
- EContact (Uncompleted Project--C# link to SQL through Visual Studio)
+ EContact 
+ (Uncompleted Project--C# link to SQL through Visual Studio)
 
  HTML&CSS PROJECTS
 * [Cinema](/Academy-Projects/HTML%26CSS/cinema)
 * [The Space Station](/Academy-Projects/HTML%26CSS/The-Space-Station)
 - [Pizza Project](/Academy-Projects/PizzaProject)
 
-  MVC Project
+ MVC Project
 * [ My Comic Book](/Academy-Projects/MyComicBook-MVC)
 
  Python project

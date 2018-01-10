@@ -16,10 +16,11 @@ This is my Tech Academy projects for learning purposes.
  HTML&CSS PROJECTS
 * [Cinema](/Academy-Projects/HTML%26CSS/cinema)
 * [The Space Station](/Academy-Projects/HTML%26CSS/The-Space-Station)
-
-* [ My Comic Book-MVC Project](/Academy-Projects/MyComicBook-MVC)
-
 - [Pizza Project](/Academy-Projects/PizzaProject)
 
-+ [Python Fizz Buzz](/Academy-Projects/Python)
+  MVC Project
+* [ My Comic Book](/Academy-Projects/MyComicBook-MVC)
+
+ Python project
++ [Fizz Buzz](/Academy-Projects/Python)
 

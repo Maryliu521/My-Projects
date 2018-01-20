@@ -26,3 +26,6 @@ This is my Tech Academy projects for learning purposes.
  Python project
 + [Fizz Buzz](/Academy-Projects/Python)
 
+Live Project(bewander website)
+* [live project stories](/Academy-Projects/Note-for-live-project.docx)
+

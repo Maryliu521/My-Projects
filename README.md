@@ -1,6 +1,9 @@
 # Tech-Academy-Projects
 This is my Tech Academy projects for learning purposes.
 
+Personal Website:
+-[Mary Liu]()
+
  C# project
  - [ACME](/Academy-Projects/C%23/ACME)
  - [CasinoGame](/Academy-Projects/C%23/MegaChallengeCasino-34)

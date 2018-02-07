@@ -2,7 +2,7 @@
 This is my Tech Academy projects for learning purposes.
 
 Personal Website:
--[Mary Liu](./maryliu521.github.io)
+-[Mary Liu-https://maryliu521.github.io]
 
  C# project
  - [ACME](/Academy-Projects/C%23/ACME)
@@ -14,9 +14,6 @@ Personal Website:
  - [War-Game Card Game](/Academy-Projects/C%23/War-Game)
  - [PapaBobPizza Website](/Academy-Projects/C%23/PapaBobPizza-3LAYERS)
  - [PostageCalculator](/Academy-Projects/C%23/postage-calculator-challenge)
-
- EContact(../EContact-ucomplished)
- (Uncompleted Project--C# link to SQL through Visual Studio)
 
  HTML&CSS PROJECTS
 * [Cinema](/Academy-Projects/HTML%26CSS/cinema)

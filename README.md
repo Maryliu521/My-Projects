@@ -2,7 +2,7 @@
 This is my Tech Academy projects for learning purposes.
 
 Personal Website:
--[Mary Liu](../maryliu521.github.io)
+-[Mary Liu](./maryliu521.github.io)
 
  C# project
  - [ACME](/Academy-Projects/C%23/ACME)

@@ -21,7 +21,7 @@ Personal Website:
 - [Pizza Project](/Academy-Projects/PizzaProject)
 
  MVC Project
-* [ My Comic Book](/Academy-Projects/MyComicBook-MVC)
+* [ My Comic Book](/Academy-Projects/MyComicsBook-MVC/MyComicsBook)
 
  Python project
 + [Fizz Buzz](/Academy-Projects/Python)

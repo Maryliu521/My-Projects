@@ -1,5 +1,5 @@
-# Tech-Academy-Projects
-This is my Tech Academy projects for learning purposes.
+# Front-End & Back-End Projects
+
 
 Personal Website:
 - [Mary Liu-https://maryliu521.github.io]
